@@ -83,7 +83,7 @@ h1 em, h2 em { color: var(--blue); font-style: normal; }
 .project-card:hover::after { transform: scale(1.35); }
 .project-featured { grid-column: 1 / -1; min-height: 390px; background: var(--blue); color: var(--bg); }
 .project-featured .project-meta, .project-featured .project-link { color: var(--bg); }
-.project-featured .tag-list span { border-color: rgba(11,15,20,.35); }
+.project-featured .tag-list span { border-color: rgba(11,15,20,.35); color: var(--bg); }
 .project-meta { display: flex; justify-content: space-between; color: var(--blue); }
 .project-card h3 { margin: auto 0 18px; font-size: clamp(2rem, 4vw, 4rem); }
 .project-card p { max-width: 620px; color: var(--muted); }
