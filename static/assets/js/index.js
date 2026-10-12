@@ -1,7 +1,7 @@
 const introLines = [
     "Still learning, still making.",
     "Curious about what happens under the surface.",
-    "Trying to make small things work well.",
+    "Trying things out in my free time.",
     "Learning backend, one project at a time.",
     "Code, circuits, and a lot of questions."
 ];
